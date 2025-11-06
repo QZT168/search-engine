@@ -1,18 +1,12 @@
-Student Name: James Liu, Sijie Guo, Qizhi Tian
+# README - Efficient Web Crawler and Search Engine
+## Overview
 
-
-README - UCI Information Retrieval Assignment 3
-==================================
-Overview
-==================================
 This project is an implementation of a search engine for the UCI Information Retrieval course. The project consists of three main components:
 1. Indexer: Builds an inverted index from the provided HTML documents.
 2. Search Component: Allows users to perform searches using Boolean queries and ranks the results using tf-idf scoring.
 3. Search Report: Provides a report of search results for specific queries.
 
-==================================
-How to Use the Software
-==================================
+## How to Use the Software
 
 1. Prerequisites:
 - Python 3.x
@@ -29,3 +23,9 @@ How to Use the Software
 - Create DEV directory for your JSON files repository in the current directory.
 - To build the index and perform searches, run the main.py file with command line:
 	python3 main.py
+
+## Contributors
+- Qizhi Tian
+- James Liu
+- Sijie Guo
+
